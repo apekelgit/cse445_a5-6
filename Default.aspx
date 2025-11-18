@@ -1,5 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master"
-    AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="TravelBooking._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="TravelBooking._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
@@ -17,14 +16,15 @@
         <section class="row">
             <div class="col-md-12">
                 <h2>Application and Components Summary Table</h2>
-
+                <p class="lead">
+                    Percentage of contribution: Adil Pekel: 100% (For this individual assignment)
+                </p>
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
                             <th>Provider</th>
                             <th>Component type</th>
                             <th>Operation / Function</th>
-                            <th>Parameters &amp; Return</th>
                             <th>Description</th>
                             <th>TryIt</th>
                         </tr>
@@ -34,10 +34,6 @@
                             <td>Adil Pekel</td>
                             <td>Global.asax</td>
                             <td>Application_Start / Session_Start</td>
-                            <td>
-                                Parameters: none<br />
-                                Return: stores <code>SiteStartTime</code> and <code>TotalSessions</code> in Application state
-                            </td>
                             <td>
                                 On application start, records the site start time. On each new session,
                                 increments a global session counter.
@@ -53,10 +49,6 @@
                             <td>Cookie</td>
                             <td>SaveUserProfile / LoadUserProfile</td>
                             <td>
-                                Parameters: Name (string), HomeCity (string), FavoriteActivity (string)<br />
-                                Return: values stored / loaded from HTTP cookie
-                            </td>
-                            <td>
                                 Saves basic user profile data into a browser cookie so it can be
                                 reloaded on later visits.
                             </td>
@@ -71,12 +63,8 @@
                             <td>Service</td>
                             <td>GetTripQuote</td>
                             <td>
-                                Parameters: Destination (string), Days (int), BasePerDay (double)<br />
-                                Return: TotalPrice (double)
-                            </td>
-                            <td>
                                 Calculates an estimated travel cost based on destination, trip length,
-                                and base per-day price.
+                                and base daily price.
                             </td>
                             <td>
                                 <asp:HyperLink ID="lnkServiceTryIt" runat="server"
