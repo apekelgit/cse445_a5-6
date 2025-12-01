@@ -25,14 +25,29 @@ namespace TravelBooking
         // Member and Staff buttons redirection
         protected void btnMember_Click(object sender, EventArgs e)
         {
-            Response.Redirect("~/Member.aspx");
+            if (Context.User.Identity.IsAuthenticated)
+            {
+                Response.Redirect("~/Member.aspx");
+            }
+            else
+            {
+                Session["ReturnUrl"] = "~/Member.aspx";
+                Response.Redirect("~/Login.aspx");
+            }
         }
 
         protected void btnStaff_Click(object sender, EventArgs e)
         {
-            Response.Redirect("~/Staff.aspx");
+            if (Context.User.Identity.IsAuthenticated)
+            {
+                Response.Redirect("~/Staff.aspx");
+            }
+            else
+            {
+                Session["ReturnUrl"] = "~/Staff.aspx";
+                Response.Redirect("~/Login.aspx");
+            }
         }
-
 
         // Cookie component 
         protected void btnSaveCookie_Click(object sender, EventArgs e)

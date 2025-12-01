@@ -9,8 +9,7 @@
 
 namespace A5_WebApp_Andrew_2
 {
-
-
+    
     public partial class Contact
     {
     }
