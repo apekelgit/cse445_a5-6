@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staffAccounts>
+	<staff>
+		<username>TA</username>
+		<passwordHash>Cse445!</passwordHash>
+	</staff>
+	<staff>
+		<username>testStaff</username>
+		<passwordHash>staff123</passwordHash>
+	</staff>
+</staffAccounts>
