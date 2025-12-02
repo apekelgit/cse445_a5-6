@@ -150,6 +150,23 @@
                         </td>
                     </tr>
 
+                    <tr>
+                        <td>Cigomba Miler</td>
+                        <td>Service</td>
+                        <td>Image Captcha</td>
+                        <td>Uses image captcha for new members when they first login<td>
+                            <a runat="server" href="~/MemberRegister.aspx">TryIt</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Cigomba Miler</td>
+                        <td>DLL</td>
+                        <td>Security Library</td>
+                        <td>Uses DLL library to encrypt user passwords and provide a hash that is then stored in a member.xml file along with username and can be verified on login.</td>
+                        <td>
+                            <a runat="server" href="/">TryIt</a>
+                        </td>
+                    </tr>
                 </tbody>
             </table>
         </div>

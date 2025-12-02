@@ -1,24 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\",
+  "WorkspaceRootPath": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\abarc\\onedrive\\documents\\assignment_6\\travelbooking\\travelbooking\\member\\memberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\miler\\downloads\\cse445_a5-6-andrew_2\\a5_webapp_andrew_2\\assignment_6\\travelbooking\\travelbooking\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06AD78E4-AFE2-4F75-9C6F-426339ADAA3A}|SecurityLib\\SecurityLib.csproj|c:\\users\\miler\\downloads\\cse445_a5-6-andrew_2\\a5_webapp_andrew_2\\assignment_6\\travelbooking\\securitylib\\passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06AD78E4-AFE2-4F75-9C6F-426339ADAA3A}|SecurityLib\\SecurityLib.csproj|solutionrelative:securitylib\\passwordsecurity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\miler\\downloads\\cse445_a5-6-andrew_2\\a5_webapp_andrew_2\\assignment_6\\travelbooking\\travelbooking\\memberregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\memberregister.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\miler\\downloads\\cse445_a5-6-andrew_2\\a5_webapp_andrew_2\\assignment_6\\travelbooking\\travelbooking\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\miler\\downloads\\cse445_a5-6-andrew_2\\a5_webapp_andrew_2\\assignment_6\\travelbooking\\travelbooking\\member\\memberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\member\\memberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelservices\\hotelcostservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\travelservices\\hotelcostservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|solutionrelative:travelservices\\hotelcostservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\member\\memberhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\travelbooking\\member\\memberhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\member\\memberhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelservices\\tripquoteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\travelservices\\tripquoteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|solutionrelative:travelservices\\tripquoteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,32 +45,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordSecurity.cs",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\SecurityLib\\PasswordSecurity.cs",
+              "RelativeDocumentMoniker": "SecurityLib\\PasswordSecurity.cs",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\SecurityLib\\PasswordSecurity.cs",
+              "RelativeToolTip": "SecurityLib\\PasswordSecurity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:30:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberRegister.aspx",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\MemberRegister.aspx",
+              "RelativeDocumentMoniker": "TravelBooking\\MemberRegister.aspx",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\MemberRegister.aspx",
+              "RelativeToolTip": "TravelBooking\\MemberRegister.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:19:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx",
+              "RelativeDocumentMoniker": "TravelBooking\\Default.aspx",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx",
+              "RelativeToolTip": "TravelBooking\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:16:36.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Site.Master",
+              "RelativeDocumentMoniker": "TravelBooking\\Site.Master",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Site.Master",
+              "RelativeToolTip": "TravelBooking\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T02:09:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MemberHome.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
               "RelativeDocumentMoniker": "TravelBooking\\Member\\MemberHome.aspx.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
               "RelativeToolTip": "TravelBooking\\Member\\MemberHome.aspx.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T00:42:08.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MemberHome.aspx",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
               "RelativeDocumentMoniker": "TravelBooking\\Member\\MemberHome.aspx",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
               "RelativeToolTip": "TravelBooking\\Member\\MemberHome.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -62,11 +138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "HotelCostService.asmx.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
               "RelativeDocumentMoniker": "TravelServices\\HotelCostService.asmx.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
               "RelativeToolTip": "TravelServices\\HotelCostService.asmx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,23 +150,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T00:51:21.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TripQuoteService.asmx.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
               "RelativeDocumentMoniker": "TravelServices\\TripQuoteService.asmx.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
+              "ToolTip": "C:\\Users\\Miler\\Downloads\\cse445_a5-6-Andrew_2\\A5_WebApp_Andrew_2\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
               "RelativeToolTip": "TravelServices\\TripQuoteService.asmx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
