@@ -22,5 +22,39 @@
                 OnClick="btnQuote_Click" />
     <br />
     <asp:Label ID="lblQuoteResult" runat="server" />
+
+
+    <div class="col-md-12">
+    <h3>Hotel Cost Service</h3>
+    <p>
+        This TryIt calls <strong>Andrew's HotelCostService.asmx</strong> Web service
+        to estimate the total hotel cost.
+    </p>
+
+    <div class="form-group">
+        <asp:Label runat="server" AssociatedControlID="txtHotelNights"
+                   Text="Number of nights:" CssClass="control-label" />
+        <asp:TextBox ID="txtHotelNights" runat="server"
+                     CssClass="form-control" />
+    </div>
+
+    <div class="form-group">
+        <asp:Label runat="server" AssociatedControlID="txtNightlyRate"
+                   Text="Nightly rate:" CssClass="control-label" />
+        <asp:TextBox ID="txtNightlyRate" runat="server"
+                     CssClass="form-control" />
+    </div>
+
+   <asp:Button ID="btnHotelCost"
+            runat="server"
+            CssClass="btn btn-info"
+            Text="Get hotel cost"
+            OnClick="btnHotelCost_Click" />
+
+
+
+    <br /><br />
+    <asp:Label ID="lblHotelCostResult" runat="server" />
+</div>
 </asp:Content>
 

@@ -187,7 +187,13 @@
     <Content Include="Site.Master" />
     <Content Include="Staff\StaffHome.aspx" />
     <Content Include="ViewSwitcher.ascx" />
+    <None Include="Web References\HotelService\HotelCostService.disco" />
     <Content Include="Web References\TripService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+    <None Include="Web References\HotelService\HotelCostService.wsdl" />
+    <Content Include="Web References\HotelService\Reference.map">
       <Generator>MSDiscoCodeGenerator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </Content>
@@ -274,6 +280,11 @@
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
     </Compile>
+    <Compile Include="Web References\HotelService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
     <Compile Include="Web References\TripService\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -309,6 +320,17 @@
       </CachedDynamicPropName>
       <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
       <CachedSettingsPropName>TravelBooking_TripService_TripQuoteService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="https://localhost:44329/HotelCostService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\HotelService\</RelPath>
+      <UpdateFromURL>https://localhost:44329/HotelCostService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>TravelBooking_HotelService_HotelCostService</CachedSettingsPropName>
     </WebReferenceUrl>
   </ItemGroup>
   <PropertyGroup>

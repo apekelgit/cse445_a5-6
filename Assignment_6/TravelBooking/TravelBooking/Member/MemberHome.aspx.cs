@@ -41,5 +41,28 @@ namespace TravelBooking.Member
                 lblQuoteResult.Text = "Error calling TripQuoteService: " + ex.Message;
             }
         }
+
+        protected void btnHotelCost_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Read from your hotel TryIt controls
+                int hotelNights = int.Parse(txtHotelNights.Text.Trim());
+                double nightlyRate = double.Parse(txtNightlyRate.Text.Trim());
+
+                // HotelService = Web Reference name you added
+                HotelService.HotelCostService svc = new HotelService.HotelCostService();
+
+                double total = svc.GetHotelCost(hotelNights, nightlyRate);
+
+                lblHotelCostResult.Text =
+                    $"Estimated hotel cost (from Andrew's Web service): {total:C}";
+            }
+            catch (Exception ex)
+            {
+                lblHotelCostResult.Text = "Error calling service: " + ex.Message;
+            }
+        }
+
     }
 }

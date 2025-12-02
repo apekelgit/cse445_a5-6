@@ -32,5 +32,15 @@ namespace TravelBooking.Properties {
                 return ((string)(this["TravelBooking_TripService_TripQuoteService"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://localhost:44329/HotelCostService.asmx")]
+        public string TravelBooking_HotelService_HotelCostService {
+            get {
+                return ((string)(this["TravelBooking_HotelService_HotelCostService"]));
+            }
+        }
     }
 }

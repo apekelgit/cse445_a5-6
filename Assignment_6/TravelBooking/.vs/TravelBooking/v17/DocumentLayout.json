@@ -3,28 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\abarc\\onedrive\\documents\\assignment_6\\travelbooking\\travelbooking\\member\\memberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\member\\memberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelservices\\hotelcostservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|solutionrelative:travelservices\\hotelcostservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|c:\\users\\abarc\\onedrive\\documents\\assignment_6\\travelbooking\\travelbooking\\app_data\\member.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\app_data\\member.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\member\\memberhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\member\\memberhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\cryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\cryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelbooking\\memberregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20478373-417E-4435-88E5-A4E6A6401776}|TravelBooking\\TravelBooking.csproj|solutionrelative:travelbooking\\memberregister.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\travelservices\\tripquoteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44FF5D8-6555-4760-94CC-1036A043D6C3}|TravelServices\\TravelServices.csproj|solutionrelative:travelservices\\tripquoteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +37,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
+              "RelativeDocumentMoniker": "TravelBooking\\Member\\MemberHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx.cs",
+              "RelativeToolTip": "TravelBooking\\Member\\MemberHome.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Member.xml",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\App_Data\\Member.xml",
-              "RelativeDocumentMoniker": "TravelBooking\\App_Data\\Member.xml",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\App_Data\\Member.xml",
-              "RelativeToolTip": "TravelBooking\\App_Data\\Member.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-12-01T20:12:47.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberRegister.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\MemberRegister.aspx.cs",
-              "RelativeDocumentMoniker": "TravelBooking\\MemberRegister.aspx.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\MemberRegister.aspx.cs",
-              "RelativeToolTip": "TravelBooking\\MemberRegister.aspx.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwEQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:39:16.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cryption.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Cryption.cs",
-              "RelativeDocumentMoniker": "TravelBooking\\Cryption.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Cryption.cs",
-              "RelativeToolTip": "TravelBooking\\Cryption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:53:23.695Z",
-              "EditorCaption": ""
+              "Title": "MemberHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
+              "RelativeDocumentMoniker": "TravelBooking\\Member\\MemberHome.aspx",
+              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Member\\MemberHome.aspx",
+              "RelativeToolTip": "TravelBooking\\Member\\MemberHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-01T22:16:58.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "TravelBooking\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx.cs",
-              "RelativeToolTip": "TravelBooking\\Default.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Title": "HotelCostService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
+              "RelativeDocumentMoniker": "TravelServices\\HotelCostService.asmx.cs",
+              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\HotelCostService.asmx.cs",
+              "RelativeToolTip": "TravelServices\\HotelCostService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T20:43:10.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx",
-              "RelativeDocumentMoniker": "TravelBooking\\Default.aspx",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Default.aspx",
-              "RelativeToolTip": "TravelBooking\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-15T20:42:48.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T00:36:16.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Password.cs",
-              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Password.cs",
-              "RelativeDocumentMoniker": "TravelBooking\\Password.cs",
-              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelBooking\\Password.cs",
-              "RelativeToolTip": "TravelBooking\\Password.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Abarc\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Documents\\cse445_a5-6\\A5_WebApp_Andrew_2\\Default.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T06:25:33.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T00:51:21.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripQuoteService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
+              "RelativeDocumentMoniker": "TravelServices\\TripQuoteService.asmx.cs",
+              "ToolTip": "C:\\Users\\Abarc\\OneDrive\\Documents\\Assignment_6\\TravelBooking\\TravelServices\\TripQuoteService.asmx.cs",
+              "RelativeToolTip": "TravelServices\\TripQuoteService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T22:34:47.8Z"
             }
           ]
         }
